@@ -1,8 +1,10 @@
 ﻿using Colors.Net;
 using Colors.Net.StringColorExtensions;
+using HW_10;
 using System.IO;
 
 UserService _userService = new UserService();
+ProgressBar _progressBar = new ProgressBar();
 while (true)
 {
     try
@@ -121,5 +123,9 @@ while (true)
     {
         ColoredConsole.WriteLine($"Unexpected Error: {ex.Message}".DarkRed());
         Console.ReadKey();
+    }
+    finally
+    {
+        _progressBar.DisPlay();
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gNKIqBw7r4A=",
+  "dgSpecHash": "Qd/LBEWr6es=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\HW-10.csproj",
+  "projectFilePath": "D:\\Hw\\HW-10\\HW-10\\HW-10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hmosl\\.nuget\\packages\\colors.net\\1.1.0\\colors.net.1.1.0.nupkg.sha512",
     "C:\\Users\\hmosl\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",

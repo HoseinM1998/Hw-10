@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hmosl\\source\\repos\\HW-10\\",
+  "WorkspaceRootPath": "D:\\Hw\\HW-10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|c:\\users\\hmosl\\source\\repos\\hw-10\\hw-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|c:\\users\\hmosl\\source\\repos\\hw-10\\hw-10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|c:\\users\\hmosl\\source\\repos\\hw-10\\hw-10\\userreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\userreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\userreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|c:\\users\\hmosl\\source\\repos\\hw-10\\hw-10\\iuserreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\iuserreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\iuserreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|c:\\users\\hmosl\\source\\repos\\hw-10\\hw-10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|c:\\users\\hmosl\\source\\repos\\hw-10\\hw-10\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|d:\\hw\\hw-10\\hw-10\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|c:\\users\\hmosl\\source\\repos\\hw-10\\hw-10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4EB14E-1646-47D2-B035-87263E6D8139}|HW-10\\HW-10.csproj|solutionrelative:hw-10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,36 +62,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\UserService.cs",
-              "RelativeDocumentMoniker": "HW-10\\UserService.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\UserService.cs",
-              "RelativeToolTip": "HW-10\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProgressBar.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\ProgressBar.cs",
+              "RelativeDocumentMoniker": "HW-10\\ProgressBar.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\ProgressBar.cs",
+              "RelativeToolTip": "HW-10\\ProgressBar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T06:54:39.583Z",
+              "WhenOpened": "2024-11-01T07:40:18.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\Configuration.cs",
-              "RelativeDocumentMoniker": "HW-10\\Configuration.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\Configuration.cs",
-              "RelativeToolTip": "HW-10\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\UserService.cs",
+              "RelativeDocumentMoniker": "HW-10\\UserService.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\UserService.cs",
+              "RelativeToolTip": "HW-10\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:00:24.826Z"
+              "WhenOpened": "2024-11-01T06:54:39.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\Configuration.cs",
+              "RelativeDocumentMoniker": "HW-10\\Configuration.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\Configuration.cs",
+              "RelativeToolTip": "HW-10\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:00:24.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserQueries.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\UserQueries.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\UserQueries.cs",
               "RelativeDocumentMoniker": "HW-10\\UserQueries.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\UserQueries.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\UserQueries.cs",
               "RelativeToolTip": "HW-10\\UserQueries.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +112,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\User.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\User.cs",
               "RelativeDocumentMoniker": "HW-10\\User.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\User.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\User.cs",
               "RelativeToolTip": "HW-10\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,38 +124,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IUserReppository.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\IUserReppository.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\IUserReppository.cs",
               "RelativeDocumentMoniker": "HW-10\\IUserReppository.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\IUserReppository.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\IUserReppository.cs",
               "RelativeToolTip": "HW-10\\IUserReppository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T10:18:57.094Z"
+              "WhenOpened": "2024-10-27T10:18:57.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserReppository.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\UserReppository.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\UserReppository.cs",
               "RelativeDocumentMoniker": "HW-10\\UserReppository.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\UserReppository.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\UserReppository.cs",
               "RelativeToolTip": "HW-10\\UserReppository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T10:19:18.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\Program.cs",
+              "DocumentMoniker": "D:\\Hw\\HW-10\\HW-10\\Program.cs",
               "RelativeDocumentMoniker": "HW-10\\Program.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\Program.cs",
+              "ToolTip": "D:\\Hw\\HW-10\\HW-10\\Program.cs",
               "RelativeToolTip": "HW-10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T10:17:22.114Z",
               "EditorCaption": ""

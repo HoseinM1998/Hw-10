@@ -636,11 +636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\HW-10.csproj",
+      "projectUniqueName": "D:\\Hw\\HW-10\\HW-10\\HW-10.csproj",
       "projectName": "HW-10",
-      "projectPath": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\HW-10.csproj",
+      "projectPath": "D:\\Hw\\HW-10\\HW-10\\HW-10.csproj",
       "packagesPath": "C:\\Users\\hmosl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hmosl\\source\\repos\\HW-10\\HW-10\\obj\\",
+      "outputPath": "D:\\Hw\\HW-10\\HW-10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hmosl\\AppData\\Roaming\\NuGet\\NuGet.Config",
